@@ -52,12 +52,12 @@
 	- Purpose: How much your work makes a difference for the team?
 	- Progress: The sense of progression each week?
 	- Belonging: Your feeling of connection to the team?
-5. Additional questions to ask on a less frequent basis:
-	1. Motivators:
-		1. Which part of your work is most fun?
-		2. What's not fun about working here?
-		3. What are the biggest time wasters for you each week?
-	2. Long term goals:
+5. 其他或許不需要每次都提到的問題：
+	1. 激勵因素：
+		1. 你覺得目前的工作中，最讓你感到樂趣的地方是哪裡？
+		2. 最讓你不感到樂趣的工作是什麼？
+		3. 你覺得工作中的哪些東西浪費掉你最多時間？
+	2. 長期計畫：
 		1. What skills do you want to improve?
 		2. What career path are you looking for?
 		3. Who in the company would you be excited to learn more from?
@@ -80,9 +80,9 @@
 6. Encourage your direct reports to bring up topics:  
 	<img src="images/1_1s.jpg" width="400">  
 7. See [Getting more from your one on ones][19] for more thoughts on effective one on ones.
-8. There isn't one best management style. Figure out how someone wants to be managed in your initial one on one:
-	1. What did you like about your previous manager? What didn't you like?
-	2. What do you like to see from a manager?
+8. 沒所所謂「最好的管理風格」。根據每個成員的個性，找出適合他們的方法：
+	1. 你喜歡上一任管理者的什麼地方？不喜歡哪些地方？
+	2. 你希望一個管理者應該是怎麼樣的？
 9. One on ones where the report is also a manager are typically more "business" where the focus is on strategy, team health and project alignment.
 
 
